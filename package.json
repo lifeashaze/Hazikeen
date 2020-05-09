@@ -1,0 +1,16 @@
+{
+  "name": "hazikeen",
+  "version": "0.1.0",
+  "description": "Made by Haze",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haze",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "moment": "^2.25.3",
+    "moment-duration-format": "^2.3.2"
+  }
+}
